@@ -77,6 +77,28 @@ GhostyWebpage is designed for:
 ![Logo](assets/logo.png)
 *The project's logo, highlighting the professional typography and color scheme.*
 
+### Herosection
+![Hero Section](assets/screenshots/herosection.png)
+*A screenshot of the hero section, showcasing the prominent use of white space and visual hierarchy.*  
+
+### Videosection
+![Video](assets/screenshots/video.png)
+*A snippet showing the integration of video content within the webpage.* 
+
+### Features
+![Features](assets/screenshots/features.png)
+*A snapshot of the featured sections, showcasing the variety of content and layout options.*    
+
+### Testimonials
+![Testimonial](assets/screenshots/testimonial.png)
+*A sample testimonial section, showcasing customer satisfaction and trust.* 
+
+### Footer
+![Footer](assets/screenshots/footer.png)
+*A glimpse into the footer section, showcasing navigation links and social media icons.* 
+
+
+
 ## Contributing
 
 We welcome contributions from the community to help improve and expand the capabilities of GhostyWebpage. Here's how you can get involved:
