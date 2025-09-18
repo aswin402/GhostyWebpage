@@ -51,7 +51,7 @@ GhostyWebpage is designed for:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-profile/GhostyWebpage.git
+   git clone https://github.com/aswin402/GhostyWebpage.git
    ```
 
 2. **Navigate to the Project Directory**:
