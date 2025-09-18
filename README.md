@@ -90,7 +90,7 @@ GhostyWebpage is designed for:
 *A snapshot of the featured sections, showcasing the variety of content and layout options.*    
 
 ### Testimonials
-![Testimonial](assets/screenshots/testimonial.png)
+![Testimonial](assets/screenshots/testimonials.png)
 *A sample testimonial section, showcasing customer satisfaction and trust.* 
 
 ### Footer
